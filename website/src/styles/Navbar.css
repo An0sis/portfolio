@@ -1,0 +1,35 @@
+.nv-bar{
+    background-color: #111111;
+    height: 7%;
+    width: 100%;
+    position: fixed;
+    top:0;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nv-gr-buttons{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.nv-gr-buttons li {
+    font-size: medium;
+    height: 100%;
+    text-decoration: none;
+    display: inline;
+    margin-inline: 50px;
+    justify-content: center;
+}
+
+.nv-gr-buttons a {
+    text-decoration: none;
+    color: white;
+}
+
+.nv-gr-buttons :hover{
+    color: grey;
+}
+
+  
