@@ -1,0 +1,24 @@
+.animation {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 0px;
+    position: relative;
+  }
+  
+  .animation::before {
+    transition: 500ms;
+    height: 3px;
+    content: "";
+    position: absolute;
+    background-color: #d85c44;
+  }
+  
+  .animation-underline::before {
+    width: 0%;
+    bottom: 10px;
+  }
+  
+  .animation-underline:hover::before {
+    width: 100%;
+  }

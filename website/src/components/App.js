@@ -1,12 +1,9 @@
-import '../styles/App.css';
-import About from './About';
-import Navbar from './Navbar';
+import Navbar from "./Navbar"
 
 function App() {
   return (
-    <div className='structure'>
+    <div className="px-[7%] w-screen h-screen bg-zinc-800">
       <Navbar />
-      <About />
     </div>
   );
 }
