@@ -7,7 +7,7 @@
   }
   
   .animation::before {
-    transition: 500ms;
+    transition: 200ms;
     height: 3px;
     content: "";
     position: absolute;
