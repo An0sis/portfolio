@@ -13,7 +13,7 @@ import windows from "../assets/windows_logo.png"
 import linux from "../assets/linux_logo.png"
 
 import Slider from "react-slick";
-import Skillcard from "./Skillcard";
+import Skillcard from "./SkillCard";
 
 function Skills(){
     const settings = {
@@ -33,7 +33,7 @@ function Skills(){
       };
     return(
         <div id="skills">
-            <h1 className="text-zinc-100 text-xl xl:text-5xl font-extrabold pb-5 xl:pb-10">Skills</h1>
+            <h1 className="text-zinc-100 text-xl xl:text-5xl font-extrabold pb-5 xl:pb-10">Skills :</h1>
             <Slider {...settings} className="pb-10">
             <Skillcard image={c} experience="Advanced" name="C" />
             <Skillcard image={csharp} experience="Advanced" name="C#" />
@@ -42,7 +42,7 @@ function Skills(){
             <Skillcard image={javascript} experience="Beginner" name="JavaScript" />
             <Skillcard image={htmlcss} experience="Intermediate" name="HTML/CSS" />
             <Skillcard image={react} experience="Beginner +" name="React" />
-            <Skillcard image={tailwind} experience="Beginner +" name="Tailwind" />
+            <Skillcard image={tailwind} experience="Intermediate" name="Tailwind" />
             <Skillcard image={windows} experience="Intermediate +" name="Windows" />
             <Skillcard image={linux} experience="Intermediate" name="Linux" />
             </Slider>

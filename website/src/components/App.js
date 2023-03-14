@@ -2,6 +2,8 @@ import Navbar from "./Navbar"
 import About from "./About"
 import Skills from "./Skills";
 import Education from "./Education";
+import Experience from "./Experience";
+import ProjectCard from "./ProjectCard";
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
       <Navbar />
       <About />
       <Education />
+      <Experience />
+      <ProjectCard />
       <Skills />
     </div>
   );

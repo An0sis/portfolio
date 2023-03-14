@@ -1,4 +1,4 @@
-function Skillcard(props) {
+function SkillCard(props) {
     return (
         <div className="flex justify-center">
             <div className="bg-zinc-700 w-11/12 h-48 justify-center items-center flex flex-col rounded-lg border-4 border-blazingOrange">
@@ -10,4 +10,4 @@ function Skillcard(props) {
     );
 }
 
-export default Skillcard;
+export default SkillCard;
