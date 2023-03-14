@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'blazingOrange' : '#d85c44'
+        'blazingOrange' : '#d85c44',
+        'blazingOrangeClick' : '#f5664a'
       }
     },
   },
