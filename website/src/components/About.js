@@ -21,7 +21,7 @@ function About() {
           <h1 className="text-xl md:text-2xl xl:text-3xl font-bold text-zinc-100">Joric Hantzberg</h1>
           <p className="text-md md:text-xl xl:text-2xl text-zinc-200">Epita student</p>
           <p className="text-sm md:text-md xl:text-xl text-zinc-300 font-light pt-[5%]">
-            I have been passionate about science since I was very young. This is the reason I
+            I have been passionate about science since I was very young. This is the reason
             why I hope to become a competent and efficient computer engineer. Therefor I am
             looking for an internship in this field in order to acquire new skills and learn to work
             in teams.
