@@ -8,6 +8,10 @@ module.exports = {
         'blazingOrangeClick' : '#f5664a'
       }
     },
+    minWidth: {
+      '200': '200px',
+      '400': '400px',
+    },
   },
   plugins: [],
 }

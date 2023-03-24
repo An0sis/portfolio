@@ -11,6 +11,7 @@ import react from "../assets/react_logo.png"
 import tailwind from "../assets/tailwind_logo.png"
 import windows from "../assets/windows_logo.png"
 import linux from "../assets/linux_logo.png"
+import git from "../assets/git_logo.png"
 
 import Slider from "react-slick";
 import Skillcard from "./SkillCard";
@@ -45,6 +46,7 @@ function Skills(){
             <Skillcard image={tailwind} experience="Intermediate" name="Tailwind" />
             <Skillcard image={windows} experience="Intermediate +" name="Windows" />
             <Skillcard image={linux} experience="Intermediate" name="Linux" />
+            <Skillcard image={git} experience="Intermediate" name="Git" />
             </Slider>
         </div>
     );
