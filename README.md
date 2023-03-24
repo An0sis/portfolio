@@ -1,2 +1,2 @@
 # website
-Website created in react to learn this technology
+A portfolio website created using React and Tailwind to learn this to technologies
