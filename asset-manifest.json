@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.38d9c244.css",
-    "main.js": "/portfolio/static/js/main.7116ee5b.js",
-    "static/media/me.jpg": "/portfolio/static/media/me.8548de73692b67eb7f80.jpg",
+    "main.js": "/portfolio/static/js/main.f11814fe.js",
     "static/media/website_img.png": "/portfolio/static/media/website_img.1347a2f06d6f8d825a22.png",
     "static/media/python_logo.png": "/portfolio/static/media/python_logo.01de6850af73eafafe8c.png",
+    "static/media/me(1).jpg": "/portfolio/static/media/me(1).080226f9edd83938d7cd.jpg",
     "static/media/linux_logo.png": "/portfolio/static/media/linux_logo.13d109a45ed6b0724b83.png",
     "static/media/CV_Joric_Hantzberg.pdf": "/portfolio/static/media/CV_Joric_Hantzberg.a22fc8cf3a8cf1babf24.pdf",
     "static/media/js_logo.png": "/portfolio/static/media/js_logo.96a13af0147433eded9b.png",
@@ -23,10 +23,10 @@
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
     "main.38d9c244.css.map": "/portfolio/static/css/main.38d9c244.css.map",
-    "main.7116ee5b.js.map": "/portfolio/static/js/main.7116ee5b.js.map"
+    "main.f11814fe.js.map": "/portfolio/static/js/main.f11814fe.js.map"
   },
   "entrypoints": [
     "static/css/main.38d9c244.css",
-    "static/js/main.7116ee5b.js"
+    "static/js/main.f11814fe.js"
   ]
 }
