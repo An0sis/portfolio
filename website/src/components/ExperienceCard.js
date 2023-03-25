@@ -1,6 +1,6 @@
 function ExperienceCard(props){
     return(
-        <div className="bg-zinc-700 p-2 sm:p-3 xl:p-5  sm:h-40 xl:h-52 flex flex-col  rounded-lg border-4 border-blazingOrange ">
+        <div className="bg-zinc-700 p-2 sm:p-3 xl:p-5 h-full flex flex-col  rounded-lg border-4 border-blazingOrange ">
             <p className="text-zinc-100 font-bold text-md xl:text-2xl">{props.job}</p>
             <p className="text-zinc-200 font-light text-sm xl:text-md">{props.location}</p>
             <p className="text-zinc-200 font-light text-sm xl:text-md">{props.date}</p>

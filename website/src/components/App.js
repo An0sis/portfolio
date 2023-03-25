@@ -8,7 +8,7 @@ import Project from "./Project";
 function App() {
   return (
     <div className="px-[10%] bg-zinc-800">
-      <Navbar />
+      
       <About />
       <Education />
       <Experience />

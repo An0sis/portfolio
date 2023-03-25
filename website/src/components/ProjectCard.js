@@ -15,7 +15,7 @@ function ProjectCard(props){
             <div className="text-zinc-100 font-light text-md xl:text-xl px-2 mb-14">
                 <p>{props.desc}</p>
             </div>
-            <div className="bg-zinc-800 absolute bottom-0 h-auto w-full border-t-2 border-black">
+            <div className="bg-zinc-800 absolute bottom-0 w-full border-t-2 border-black">
                 <a href={props.link}><img src={iconGit} className="h-8 p-2  object-contain"/></a>
             </div>
         </div>

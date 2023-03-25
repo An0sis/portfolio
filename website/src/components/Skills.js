@@ -34,7 +34,7 @@ function Skills(){
       };
     return(
         <div id="skills">
-            <h1 className="text-zinc-100 text-xl xl:text-5xl font-extrabold pb-5 xl:pb-10">Skills :</h1>
+            <h1 className="text-zinc-100 text-xl xl:text-3xl font-extrabold pb-5 xl:pb-10">Skills :</h1>
             <Slider {...settings} className="pb-10">
             <Skillcard image={c} experience="Advanced" name="C" />
             <Skillcard image={csharp} experience="Advanced" name="C#" />
