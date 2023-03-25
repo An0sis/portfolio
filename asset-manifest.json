@@ -1,32 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.38d9c244.css",
-    "main.js": "/portfolio/static/js/main.f11814fe.js",
-    "static/media/website_img.png": "/portfolio/static/media/website_img.1347a2f06d6f8d825a22.png",
+    "main.js": "/portfolio/static/js/main.35535206.js",
     "static/media/python_logo.png": "/portfolio/static/media/python_logo.01de6850af73eafafe8c.png",
-    "static/media/me(1).jpg": "/portfolio/static/media/me(1).080226f9edd83938d7cd.jpg",
-    "static/media/linux_logo.png": "/portfolio/static/media/linux_logo.13d109a45ed6b0724b83.png",
+    "static/media/me.jpg": "/portfolio/static/media/me.5007f6fb6dc85b365bae.jpg",
     "static/media/CV_Joric_Hantzberg.pdf": "/portfolio/static/media/CV_Joric_Hantzberg.a22fc8cf3a8cf1babf24.pdf",
-    "static/media/js_logo.png": "/portfolio/static/media/js_logo.96a13af0147433eded9b.png",
-    "static/media/ocr_img.png": "/portfolio/static/media/ocr_img.dadf96dcd2c709b59f9e.png",
+    "static/media/website_img.png": "/portfolio/static/media/website_img.8f5133d2f4b9b7c89c2a.png",
+    "static/media/linux_logo.png": "/portfolio/static/media/linux_logo.78ff9f6bd654cff56cac.png",
     "static/media/ocaml_logo.png": "/portfolio/static/media/ocaml_logo.5c7423a74f67c8176c0a.png",
-    "static/media/htmlcss_logo.png": "/portfolio/static/media/htmlcss_logo.bc6e6eaee4d408813deb.png",
-    "static/media/tailwind_logo.png": "/portfolio/static/media/tailwind_logo.8e81e4c5944b034a5865.png",
-    "static/media/eldorado_img.png": "/portfolio/static/media/eldorado_img.e8f94d1316db5c0cbf92.png",
-    "static/media/c_logo.png": "/portfolio/static/media/c_logo.bbbbbabc8c191bfb99bf.png",
-    "static/media/linkedin.png": "/portfolio/static/media/linkedin.30dee4a99b2671c5ab6d.png",
-    "static/media/react_logo.png": "/portfolio/static/media/react_logo.04ef35f4a27f116daddc.png",
-    "static/media/github.png": "/portfolio/static/media/github.65a029dd14ae5c405656.png",
+    "static/media/ocr_img.png": "/portfolio/static/media/ocr_img.fff69b07f193c6852af7.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.2047796ff19897f53831.png",
+    "static/media/js_logo.png": "/portfolio/static/media/js_logo.56c4b518f5cbda231d69.png",
+    "static/media/eldorado_img.png": "/portfolio/static/media/eldorado_img.2f0216fce72db9c1bb0f.png",
     "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/portfolio/index.html",
     "main.38d9c244.css.map": "/portfolio/static/css/main.38d9c244.css.map",
-    "main.f11814fe.js.map": "/portfolio/static/js/main.f11814fe.js.map"
+    "main.35535206.js.map": "/portfolio/static/js/main.35535206.js.map"
   },
   "entrypoints": [
     "static/css/main.38d9c244.css",
-    "static/js/main.f11814fe.js"
+    "static/js/main.35535206.js"
   ]
 }
