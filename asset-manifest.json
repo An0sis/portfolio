@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d6e74a1c.css",
-    "main.js": "/static/js/main.72386476.js",
+    "main.js": "/static/js/main.38a04a84.js",
+    "static/media/unity_logo.png": "/static/media/unity_logo.0ea9c757ce6764e12f0d.png",
     "static/media/CV_Joric_Hantzberg.pdf": "/static/media/CV_Joric_Hantzberg.905e0672f480d8d69b68.pdf",
     "static/media/python_logo.png": "/static/media/python_logo.01de6850af73eafafe8c.png",
     "static/media/me.jpg": "/static/media/me.5007f6fb6dc85b365bae.jpg",
     "static/media/website_img.png": "/static/media/website_img.8f5133d2f4b9b7c89c2a.png",
     "static/media/linux_logo.png": "/static/media/linux_logo.78ff9f6bd654cff56cac.png",
     "static/media/ocaml_logo.png": "/static/media/ocaml_logo.5c7423a74f67c8176c0a.png",
-    "static/media/unity_logo.png": "/static/media/unity_logo.4d3846029db434ef7acd.png",
     "static/media/ocr_img.png": "/static/media/ocr_img.fff69b07f193c6852af7.png",
     "static/media/linkedin.png": "/static/media/linkedin.2047796ff19897f53831.png",
     "static/media/js_logo.png": "/static/media/js_logo.56c4b518f5cbda231d69.png",
@@ -19,10 +19,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d6e74a1c.css.map": "/static/css/main.d6e74a1c.css.map",
-    "main.72386476.js.map": "/static/js/main.72386476.js.map"
+    "main.38a04a84.js.map": "/static/js/main.38a04a84.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e74a1c.css",
-    "static/js/main.72386476.js"
+    "static/js/main.38a04a84.js"
   ]
 }
