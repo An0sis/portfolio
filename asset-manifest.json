@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d6e74a1c.css",
-    "main.js": "/static/js/main.047b8952.js",
-    "static/media/CV_Joric_Hantzberg.pdf": "/static/media/CV_Joric_Hantzberg.a0b74819167d1fd530bb.pdf",
+    "main.js": "/static/js/main.72386476.js",
+    "static/media/CV_Joric_Hantzberg.pdf": "/static/media/CV_Joric_Hantzberg.905e0672f480d8d69b68.pdf",
     "static/media/python_logo.png": "/static/media/python_logo.01de6850af73eafafe8c.png",
     "static/media/me.jpg": "/static/media/me.5007f6fb6dc85b365bae.jpg",
     "static/media/website_img.png": "/static/media/website_img.8f5133d2f4b9b7c89c2a.png",
@@ -19,10 +19,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d6e74a1c.css.map": "/static/css/main.d6e74a1c.css.map",
-    "main.047b8952.js.map": "/static/js/main.047b8952.js.map"
+    "main.72386476.js.map": "/static/js/main.72386476.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e74a1c.css",
-    "static/js/main.047b8952.js"
+    "static/js/main.72386476.js"
   ]
 }
