@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d6e74a1c.css",
-    "main.js": "/static/js/main.38a04a84.js",
+    "main.js": "/static/js/main.6a54e006.js",
     "static/media/unity_logo.png": "/static/media/unity_logo.0ea9c757ce6764e12f0d.png",
     "static/media/CV_Joric_Hantzberg.pdf": "/static/media/CV_Joric_Hantzberg.905e0672f480d8d69b68.pdf",
     "static/media/python_logo.png": "/static/media/python_logo.01de6850af73eafafe8c.png",
@@ -19,10 +19,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.d6e74a1c.css.map": "/static/css/main.d6e74a1c.css.map",
-    "main.38a04a84.js.map": "/static/js/main.38a04a84.js.map"
+    "main.6a54e006.js.map": "/static/js/main.6a54e006.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e74a1c.css",
-    "static/js/main.38a04a84.js"
+    "static/js/main.6a54e006.js"
   ]
 }
