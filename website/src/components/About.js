@@ -21,8 +21,8 @@ function About() {
           <h1 className="text-xl md:text-2xl xl:text-3xl font-bold text-zinc-100">Joric Hantzberg</h1>
           <p className="text-md md:text-xl xl:text-2xl text-zinc-200">Epita student</p>
           <p className="text-sm md:text-md xl:text-xl text-zinc-300 font-light pt-[5%]">
-            I have been passionate about science since I was very young. I love solve problem and build software. This is the reason
-            why I hope to become a competent and efficient computer engineer. For any request, you can contact me on linkedin or with the following email address : hantzberg.joric@gmail.com
+            I have been passionate about science since I was young. I like solving problem and create software. This is the reason
+            why I hope to become a competent and efficient computer engineer. For any request, you can contact me on linkedin or at the following email address : hantzberg.joric@gmail.com
           </p>
         </div>
     </div>
