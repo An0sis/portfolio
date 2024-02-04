@@ -3,16 +3,18 @@ import website from "../assets/website_img.png"
 import eldorado from "../assets/eldorado_img.png"
 import licocrypto from "../assets/licocrypto_img.png"
 import ocr from "../assets/ocr_img.png"
-
+import sh from "../assets/42sh.png"
 function Project(){
     const projectPortfolio=["React","Tailwind","Javascript","HTML","CSS"];
     const projectEldorado=["C#","Unity","Photon","Playfab"];
     const projectLicocrypto=["Python","PIL","PySimpleGUI"];
     const projectOcr=["C","SDL2","GTK"];
+    const project42sh=["C","Autotools"]
     return(
         <div id="projects">
             <h1 className="text-zinc-100 text-xl xl:text-3xl font-extrabold pb-5 xl:pb-10">Projects :</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 2xl:grid-cols-4 gap-x-6 gap-y-4 pb-20">
+                <ProjectCard title="42sh" desc="42sh is a shell following the posix standard made from scratch. It it fully functional and can be used as your personal shell" image={sh} tech={project42sh} link="https://github.com/An0sis/"/>
                 <ProjectCard title="OCR" desc="
 OCR is a 2nd year project at EPITA carried out in groups of 4. The goal is to create a software that allows you to solve a sudoku from an image." image={ocr} tech={projectOcr} link="https://github.com/An0sis/OCR-Epita"/>
                 <ProjectCard title="Licocrypto" desc="This project was made in collaboration with SharkyFlou. Its a program to encrypt and decrypt message with a key or hide message in image using the steganographie. Require : PySimpleGUI, pyperclip, PIL, webbrowser" image={licocrypto} tech={projectLicocrypto} link="https://github.com/An0sis/Projet-LicoCrypto"/>

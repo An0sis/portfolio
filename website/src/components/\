@@ -15,7 +15,7 @@ import git from "../assets/git_logo.png"
 import unity from "../assets/unity_logo.png"
 import postgres from "../assets/postgres_logo.png"
 import asm from "../assets/x86-64_logo.png"
-import java from "../assets/java_logo.png"
+import java from "../assets/java_logo,png"
 import Slider from "react-slick";
 import Skillcard from "./SkillCard";
 
