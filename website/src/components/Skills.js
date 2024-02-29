@@ -2,6 +2,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 import c from "../assets/c_logo.png"
+import cpp from "../assets/cpp_logo.png"
 import csharp from "../assets/csharp_logo.png"
 import python from "../assets/python_logo.png"
 import ocaml from "../assets/ocaml_logo.png"
@@ -40,8 +41,9 @@ function Skills(){
             <h1 className="text-zinc-100 text-xl xl:text-3xl font-extrabold pb-5 xl:pb-10">Skills :</h1>
             <Slider {...settings} className="pb-20">
             <Skillcard image={c} experience="Expert" name="C" />
-            <Skillcard image={csharp} experience="Advanced" name="C#" />
-            <Skillcard image={python} experience="Advanced +" name="Python" />
+            <Skillcard image={cpp} experience="Advanced +" name="C++" />
+            <Skillcard image={csharp} experience="Intermediate" name="C#" />
+            <Skillcard image={python} experience="Advanced" name="Python" />
             <Skillcard image={java} experience="Advanced" name="Java" />
             <Skillcard image={postgres} experience="Intermediate" name="PostgreSQL" />
             <Skillcard image={javascript} experience="Beginner" name="JavaScript" />
