@@ -7,8 +7,9 @@ function App() {
     return (
         <Router>
                 <Routes>
-                    <Route path="/" element={<MainPage />} />
-                    <Route path="/secrete-page" element={<SecretPage />} />
+                    <Route exact path="/" element={<MainPage />} />
+                    <Route exact path="/secrete-page" element={<SecretPage />} />
+                    <Route element={<MainPage />} />
                 </Routes>
         </Router>
     );

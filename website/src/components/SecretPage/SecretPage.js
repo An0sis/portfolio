@@ -36,7 +36,7 @@ function SecretPage() {
         // Change text and gif when the Yes button is clicked
         yesButton.addEventListener("click", () => {
             btnGroup.style.display = "none";
-            question.innerHTML = "You ALWAYS need a hug! </br> Take care of yourself ❤️";
+            question.innerHTML = "You always need a hug! </br> Take care of yourself ❤️";
             gif.src = gifHug;
         });
 
