@@ -1,23 +1,17 @@
-import Navbar from "./Navbar"
-import About from "./About"
-import Skills from "./Skills";
-import Education from "./Education";
-import Experience from "./Experience";
-import Project from "./Project";
-import Footer from "./Footer";
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import SecretPage from './SecretPage/SecretPage';
+import MainPage from "./MainPage";
 
 function App() {
-  return (
-    <div className="px-[10%] bg-zinc-800">
-      <Navbar />
-      <About />
-      <Education />
-      <Experience />
-      <Project />
-      <Skills />
-      <Footer />
-    </div>
-  );
+    return (
+        <Router>
+                <Routes>
+                    <Route path="/" element={<MainPage />} />
+                    <Route path="/secrete-page" element={<SecretPage />} />
+                </Routes>
+        </Router>
+    );
 }
 
 export default App;

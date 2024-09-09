@@ -12,7 +12,7 @@ function About() {
           <div className="flex flex-row items-center pt-[4%] lg:pt-[6%] h-15">
             <a href="https://github.com/An0sis"><img src={iconGit} alt="git" className="h-5 lg:h-10 px-1 lg:px-2.5 object-contain"/></a>
             <div className="px-1 lg:px-2.5">
-              <a href={CV} download=""><button class="bg-blazingOrange hover:bg-blazingOrangeClick text-white text-xs lg:text-base font-bold h-5 lg:h-10 rounded-full px-1 lg:px-2.5 "> Resume </button></a>
+              <a href={CV} download="CV_Joric_Hantzberg.pdf"><button class="bg-blazingOrange hover:bg-blazingOrangeClick text-white text-xs lg:text-base font-bold h-5 lg:h-10 rounded-full px-1 lg:px-2.5 "> Resume </button></a>
             </div>
             <a href="https://www.linkedin.com/in/joric-hantzberg-8623481b9/"><img src={iconLink} alt="linkedin" className="h-5 lg:h-10 px-1 lg:px-2.5 object-contain"/></a>
           </div>
